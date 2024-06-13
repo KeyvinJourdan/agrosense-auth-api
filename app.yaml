@@ -1,0 +1,8 @@
+runtime: nodejs14
+
+env_variables:
+  SECRET: "eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTcxODIyMTE4NCwiaWF0IjoxNzE4MjIxMTg0fQ.V3ZJyfyfw6Y7hOt0tAJz20BhdWEDfFDPBMYpFBHAmYk"
+  DB_HOST: "/cloudsql/your-cloudsql-connection-name"
+  DB_USER: "kj"
+  DB_PASS: "clarity0010"
+  DB_NAME: "agrosense-capstone"
